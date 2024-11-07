@@ -2,12 +2,12 @@
 🌟 Age: 16
 🎓 Status: Student
 
-I am a passionate web developer currently diving into the world of Angular. My journey in coding began as a curiosity, and it has quickly evolved into a fervent interest in creating dynamic and responsive web applications.
+I am an aspiring web developer
 
-🛠️ Technologies I’m working with:
+🛠️ Stack:
 Frontend: 🌐 Angular
-Languages: 💻 HTML, CSS, JavaScript
-Tools: 🛠️ Git, Visual Studio Code, and more
+Languages: HTML, CSS, JavaScript, TypeScript
+Tools: Git, Visual Studio Code
 
 🍂 What I’m currently learning:
 I'm actively expanding my knowledge in TypeScript, as well as exploring best practices in web development and design principles.
