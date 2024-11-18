@@ -2,12 +2,9 @@
 🌟 Age: 16
 🎓 Status: Student
 
-I am an aspiring web developer
+👾 I am an aspiring web developer
 
 🛠️ Stack:
-Frontend: 🌐 Angular
-Languages: HTML, CSS, JavaScript, TypeScript
-Tools: Git, Visual Studio Code
-
-🍂 What I’m currently learning:
-I'm actively expanding my knowledge in TypeScript, as well as exploring best practices in web development and design principles.
+   Frontend: React
+   Languages: HTML, CSS, JavaScript
+   Tools: Visual Studio Code
