@@ -7,4 +7,4 @@
 🛠️ Stack:
   -- React --
   -- HTML, CSS, JavaScript --
-  -- Visual Studio Code --
+  -- WebStorm --
