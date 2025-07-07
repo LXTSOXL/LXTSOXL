@@ -9,4 +9,4 @@
   -- HTML, CSS, JavaScript --
   -- C# --
 
-https://www.codewars.com/users/LXTSOXL/badges/small
+<img src="https://www.codewars.com/users/LXTSOXL/badges/small">
