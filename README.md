@@ -5,6 +5,8 @@
 👾 I am an aspiring web developer
 
 🛠️ Stack:
-  -- React --
+  -- Angular --
   -- HTML, CSS, JavaScript --
-  -- WebStorm --
+  -- C# --
+
+https://www.codewars.com/users/LXTSOXL/badges/small
